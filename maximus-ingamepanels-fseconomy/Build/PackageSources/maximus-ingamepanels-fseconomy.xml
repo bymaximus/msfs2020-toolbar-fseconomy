@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SimBase.Document Type="InGamePanels" version="1,0">
+  <Filename>InGamePanel_FSEconomyPanel.spb</Filename>
+  <InGamePanels.InGamePanelDefinition id="PANEL_FSECONOMY_PANEL" Name="FSEconomy" url="html_UI/ingamePanels/FSEconomy/FSEconomy.html" resizeDirections="Both" minWidth="33" minHeight="35" defaultWidth="36" defaultHeight="36" defaultTop="33" defaultRight="2" icon="ICON_TOOLBAR_MAXIMUS_FSECONOMY_PANEL" buttonVisible="true">
+  </InGamePanels.InGamePanelDefinition>
+</SimBase.Document>
